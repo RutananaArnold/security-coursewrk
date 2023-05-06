@@ -22,7 +22,8 @@
             <img src="assets/draw2.png.webp" class="img-fluid pt-5" alt="Sample image">
           </div>
           <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
-            <form action="login_logic.php" method="post">
+          <form action="prepared_stmt_login_logic.php" method="post">
+            <!-- <form action="login_logic.php" method="post"> -->
               <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
                 <p class="lead fw-normal me-3 mb-3 pt-5">Login</p>
               </div>
